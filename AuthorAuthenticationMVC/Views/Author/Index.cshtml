@@ -1,0 +1,8 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@Html.ActionLink("GetBookDetails","GetBook","Book")
+@Html.ActionLink("GetAuthorDetails", "GetDetails", new { authId = ViewBag.guid })
+

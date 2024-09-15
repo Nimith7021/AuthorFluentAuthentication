@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\authorauthenticationmvc\\authorauthenticationmvc\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\user\\getallbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\user\\getallbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\mappings\\authormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\mappings\\authormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAuthDB/True/SqlTable/dbo.AuthorDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAuthDB/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAuthDB/True/SqlTable/dbo.Authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\book\\getbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\book\\getbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\author\\getdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\author\\getdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\mappings\\authordetailsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\mappings\\authordetailsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\models\\authordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\models\\authordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\authorauthenticationmvc\\mappings\\bookmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5DA01-EF9C-4459-9604-AA74458AFA83}|AuthorAuthenticationMVC\\AuthorAuthenticationMVC.csproj|solutionrelative:authorauthenticationmvc\\mappings\\bookmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Mappings\\AuthorMap.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Mappings\\AuthorMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Mappings\\AuthorMap.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Mappings\\AuthorMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:18:58.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:32:03.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T12:59:06.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\User\\GetAllBooks.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\User\\GetAllBooks.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\User\\GetAllBooks.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\User\\GetAllBooks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T14:36:17.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:31:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Models\\Author.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Models\\Author.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:15:06.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.AuthorDetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAuthDB/True/SqlTable/dbo.AuthorDetails.sql",
+              "ToolTip": "dbo.AuthorDetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T12:51:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAuthDB/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T12:47:09.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Authors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthorAuthDB/True/SqlTable/dbo.Authors.sql",
+              "ToolTip": "dbo.Authors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-12T12:43:30.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Data\\NHibernateHelper.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:30:22.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Book\\GetBook.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Book\\GetBook.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Book\\GetBook.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Book\\GetBook.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T15:08:04.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\GetDetails.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Author\\GetDetails.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\GetDetails.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Author\\GetDetails.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T15:41:48.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorDetailsMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Mappings\\AuthorDetailsMap.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Mappings\\AuthorDetailsMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Mappings\\AuthorDetailsMap.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Mappings\\AuthorDetailsMap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:19:26.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Controllers\\BookController.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:18:44.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Author\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\Delete.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Author\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T19:25:34.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Author\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T14:37:51.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Author\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Author\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T16:07:35.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T17:01:37.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T18:01:51.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T18:07:29.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\Create.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\Author\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\Author\\Create.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\Author\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T20:45:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Global.asax.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Global.asax.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:05:38.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Web.config",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Web.config",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Web.config",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T13:22:00.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:17:02.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\User\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Views\\User\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Views\\User\\LogIn.cshtml",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Views\\User\\LogIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:13:24.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:31:54.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookMap.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Mappings\\BookMap.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Mappings\\BookMap.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Mappings\\BookMap.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Mappings\\BookMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:19:33.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:17:32.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Models\\Books.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Models\\Books.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:15:37.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Models\\AuthorDetails.cs",
+              "RelativeDocumentMoniker": "AuthorAuthenticationMVC\\Models\\AuthorDetails.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\AuthorAuthenticationMVC\\AuthorAuthenticationMVC\\Models\\AuthorDetails.cs",
+              "RelativeToolTip": "AuthorAuthenticationMVC\\Models\\AuthorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:15:26.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
